@@ -1,4 +1,4 @@
 mountpoints:
   /:
     url: https://content.da.live/shenderson5454/da-tutorial/
-    type: markup 
+    type: markup
